@@ -1,37 +1,3 @@
-# Projeto UML – Astah
-
-Este repositório contém a modelagem UML desenvolvida no software **Astah UML** como parte dos meus estudos no curso de **Sistemas de Informação**.
-
-## 📌 Objetivo
-Representar visualmente os principais casos de uso do sistema, facilitando o entendimento das funcionalidades e servindo como base para futuras etapas de análise e desenvolvimento.
-
-## 📂 Conteúdo do Repositório
-- `projeto-uml-astah.asta` — Arquivo principal do projeto no Astah.
-- Diagramas UML (em evolução):
-  - Caso de Uso: **Cadastrar Cliente**
-  - Novos diagramas serão adicionados conforme o projeto avança.
-
-## 🛠 Ferramentas Utilizadas
-- **Astah UML** — Modelagem UML  
-- **GitHub** — Versionamento e armazenamento do projeto  
-
-## 📘 Diagrama Atual
-O projeto já contém o primeiro caso de uso:
-
-- **Usuário → Cadastrar Cliente**
-
-Este diagrama representa a interação inicial entre o usuário e o sistema para registrar novos clientes.
-
-## 🚀 Próximos Passos
-- Criar novos casos de uso  
-- Criar o diagrama de classes baseado nos casos de uso  
-- Criar diagramas de sequência  
-- Exportar diagramas em PNG/PDF para visualização rápida  
-
-## 👨‍💻 Autor
-**Fabiano Faria de Resende**  
-Estudante de **Sistemas de Informação**  
-
 # 📘 Projeto UML – Astah
 
 Este repositório contém a modelagem UML desenvolvida no software **Astah UML** como parte dos meus estudos no curso de **Sistemas de Informação**.  
@@ -109,6 +75,13 @@ São Gonçalo – RJ, Brasil
 
 ## 📎 Licença
 Este projeto é de uso educacional e livre para consulta.
+
+---
+
+## 📊 Diagramas do Projeto
+
+### Caso de Uso - Cliente
+![Caso de Uso Cliente](diagramas/caso-de-uso-cliente.png)
 
 
 
